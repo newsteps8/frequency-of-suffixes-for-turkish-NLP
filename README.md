@@ -13,6 +13,8 @@ https://github.com/ahmetaa/zemberek-nlp/blob/master/examples/src/main/java/zembe
 https://github.com/ozturkberkay/Zemberek-Python-Examples/blob/master/examples/morphology/word_generation.py
 
 Firstly, I tagged the words that suffixes have been as positive, negative and neutral according to their meaning. We then separated the suffixes from the roots using the stem and lemmatize code of the Zemberek library. Then we kept these suffixes and tags in the csv file, Suffixes and Labels, respectively.
+
+*Thanks to https://github.com/ahmetaa/zemberek-nlp/blob/master/examples/src/main/java/zemberek/examples/morphology/StemmingAndLemmatization.java and https://github.com/ozturkberkay/Zemberek-Python-Examples/tree/master/examples/morphology/stem-and-lemmatize
 # writing code and training model
 I created a dataframe from the data (Suffixes, Labels) using the pandas library.
 
