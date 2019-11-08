@@ -6,7 +6,7 @@ In this project, it is aimed to find the frequency of positive, neutral and nega
 -> python 3
 -> pandas and sklearn packages
 # preparing data
-I made my own data. With the help of the word generation code of the Zemberek library, I produced about 240000 derived Turkish words out of 10000 Turkish word roots. Then I threw them into (Words_to_labeled_1).
+I made my own data. With the help of the word generation code of the Zemberek library, I produced about 200000 derived Turkish words out of 10000 Turkish word roots. Then I threw them into (Words_to_labeled_1).
 
 *Thanks to
 https://github.com/ahmetaa/zemberek-nlp/blob/master/examples/src/main/java/zemberek/examples/morphology/GenerateWords.java and
